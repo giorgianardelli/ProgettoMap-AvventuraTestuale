@@ -1,0 +1,19 @@
+Benvenuto nella sezione aiuto!!!
+Inserendo il comando gioca verrai catapultato nell'avventura testuale, mentre inserendo il comando esci abbandonerai la sessione di gioco. 
+Presta attenzione ai simboli che troverai durante il tuo percorso!!!
+Legenda: 
+                                                    ------------------
+                                                    | SIMBOLI MAPPA: |
+                                                    ------------------
+                                                    | A: Nemico      |
+                                                    | ?: Cibo        |
+                                                    | !: Indovinello |
+                                                    ------------------
+Statistiche iniziali:
+                                                ---------------------------
+                                                | ECCO LE TUE STATISTICHE |
+                                                ---------------------------
+                                                |      FORZA: 10          |
+                                                |      VITA: 100          |
+                                                |     STAMINA: 100        |
+                                                ---------------------------
